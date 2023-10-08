@@ -1,0 +1,86 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+.header {
+    background-image: url(images/back.jpg);
+    background-size: cover;
+}
+.container {
+    height: 370px;
+    text-align: center;
+}
+.navig {
+    font-size: 20px;
+    padding: 10px;
+}
+.navig a{
+    color: white;
+}
+.name{
+    color: white;
+    font-size: 60px;
+    padding: 110px 0px 0px 0px;
+   
+}
+.mail{
+    display: inline;
+    padding: 5px; 
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.mail:hover {
+    background-color: grey;
+    color: white;
+    border-color: grey;
+}
+    
+.image-first{
+    margin: 20px;
+    border-radius: 40px;
+    float: left; 
+}
+h2{
+    text-align: center; 
+}
+p{
+    margin: 10px 0px 10px 20px;
+    font-size: 20px;
+}
+
+ul{
+    margin: 20px 0px 60px 380px;
+    font-size: 20px;
+}
+.timetable{
+    text-align: center;
+}
+caption{
+    text-transform: uppercase;
+    margin: 20px;
+    font-weight: bold;
+}
+table {
+    border: 5px solid darkblue;
+    width: 1000px;
+    font-size: 20px;
+ }
+th {
+    border: 2px solid grey;
+    background-color:lightblue;
+ }
+td {
+    border: 2px solid grey;
+ }
+.photo{
+    padding: 20px 5px;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.footer{
+    text-align: center;
+}
